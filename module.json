@@ -10,5 +10,7 @@
     "packs" : [],
     "languages" : [],
     "socket" : true,
-    "manifest" : "https://"
+    "manifest" : "https://raw.githubusercontent.com/Jonwh25/Summoner/master/module.json",
+    "download" : "https://github.com/Jonwh25/Summoner/archive/summoner.zip",
+    "url" : "https://github.com/Jonwh25/Summoner"
   }
