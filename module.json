@@ -1,11 +1,13 @@
 {
     "name": "Summoner",
     "title": "Summoner",
-    "description": "DnD5e compendium of actor players instead of actor npc for spells like find familiar and summon",
+    "description": "<p>DnD5e compendium for spells like Find Familiar</p>",
     "author": "MTGCarver#7753",
     "version": "0.1.0",
-    "minimumCoreVersion": "0.5.7",
+    "minimumCoreVersion" : "0.5.7",
+    "compatibleCoreVersion" : "0.5.7",
     "scripts" : [],
+    "esmodules" : [],
     "styles" : [],
     "packs" : [
         {
@@ -17,8 +19,7 @@
         }
     ],
     "languages" : [],
-    "socket" : true,
     "manifest" : "https://raw.githubusercontent.com/Jonwh25/summoner/master/module.json",
     "download" : "https://raw.githubusercontent.com/Jonwh25/summoner/master/archive/summoner-master.zip",
-    "url" : "https://github.com/Jonwh25/Summoner"
+    "url" : "https://github.com/Jonwh25/summoner"
   }

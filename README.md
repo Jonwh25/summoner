@@ -1,14 +1,20 @@
 # Summoner
-Foundry VTT Summoner Module
+This FoundryVTT Module adds a simple compendium pack to help with DnD5e spells that summon creatures.
+It is nothing fancy. My players were casting find familiar and I tried to use the npc creatures that
+are in the DnD5e system and it wasn't working.  So all I did was create actor/player types for each 
+creature they could summon.
 
-Provides a simple compendium pack to help with DND5e spells that summon creatures. 
+Hope this saves you some time.  
 
-Created after my players complained they had problems moving npc tokens that I gave them control over. Since that didn't seem to work too well, I just made player actors and copied all the data from the NPCs.
-
-Hope this saves some people some time from having to create all the actors.
-
-Right now this supports the following spells:
+Right now this only supports the following spells:
 * Find Familiar
 * Unseen Servant
 
 I'll add more as time goes on.
+
+## Install
+To install this module, go to the World Configuration and Setup, Addon Modules, Install Module.
+Then you may copy this url https://raw.githubusercontent.com/Jonwh25/summoner/master/module.json
+
+## Contributions
+Every contribution is welcome.
