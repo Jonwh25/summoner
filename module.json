@@ -11,10 +11,10 @@
         {
             "name" : "Summoner",
             "label" : "Summoner",
-            "system" : "dnd5e",
-            "path" : "./packs/summoner.db",
+            "path" : "packs/summoner.db",
+            "module" : "Summoner",
             "entity" : "Actor"
-        },
+        }
     ],
     "languages" : [],
     "socket" : true,
