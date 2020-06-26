@@ -1,3 +1,5 @@
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Jonwh25/summoner?style=flat-square"> <img alt="GitHub Releases" src="https://img.shields.io/github/downloads-pre/Jonwh25/summoner/latest/total?style=flat-square">  
+
 # Summoner
 This FoundryVTT Module adds a simple compendium pack to help with DnD5e spells that summon creatures.
 It is nothing fancy. My players were casting find familiar and I tried to use the npc creatures that

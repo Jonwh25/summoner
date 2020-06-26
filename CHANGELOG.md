@@ -17,6 +17,10 @@ All notable changes to this project will be documented in this file.
 
 ### Security
 -->
+## [v.1.0.0] 2020-06-25
+### Changed
+* Updated to be compatible with Release 0.6.4
+
 ## [v0.1.1] 2020-05-22
 ### Changed
 * Updated module.json to be compatible with Release 0.6.0
