@@ -3,7 +3,7 @@
     "title": "Summoner",
     "description": "<p>DnD5e compendium for spells like Find Familiar</p>",
     "author": "Jon Whitehouse - MTGCarver#7753",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "minimumCoreVersion" : "0.6.0",
     "compatibleCoreVersion" : "0.6.6",
     "scripts" : [],
@@ -19,7 +19,7 @@
         }
     ],
     "languages" : [],
-    "manifest" : "https://github.com/Jonwh25/summoner/releases/download/1.0.11/module.json",
-    "download" : "https://github.com/Jonwh25/summoner/releases/download/1.0.11/summoner.zip",
+    "manifest" : "https://github.com/Jonwh25/summoner/releases/download/1.0.12/module.json",
+    "download" : "https://github.com/Jonwh25/summoner/releases/download/1.0.12/summoner.zip",
     "url" : "https://github.com/Jonwh25/summoner"
   }
