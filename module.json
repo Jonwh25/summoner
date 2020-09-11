@@ -1,9 +1,9 @@
 {
-    "name": "Summoner",
+    "name": "summoner",
     "title": "Summoner",
     "description": "<p>DnD5e compendium for spells like Find Familiar</p>",
     "author": "Jon Whitehouse - MTGCarver#7753",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "minimumCoreVersion" : "0.6.0",
     "compatibleCoreVersion" : "0.6.6",
     "scripts" : [],
@@ -11,15 +11,15 @@
     "styles" : [],
     "packs" : [
         {
-            "name" : "Summoner",
-            "label" : "Summoner",
+            "name" : "summoner-actors",
+            "label" : "Summoner Monsters",
             "path" : "packs/summoner.db",
             "module" : "Summoner",
             "entity" : "Actor"
         }
     ],
     "languages" : [],
-    "manifest" : "https://github.com/Jonwh25/summoner/releases/download/1.0.10/module.json",
-    "download" : "https://github.com/Jonwh25/summoner/releases/download/1.0.10/summoner.zip",
+    "manifest" : "https://github.com/Jonwh25/summoner/releases/download/1.0.11/module.json",
+    "download" : "https://github.com/Jonwh25/summoner/releases/download/1.0.11/summoner.zip",
     "url" : "https://github.com/Jonwh25/summoner"
   }
