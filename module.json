@@ -2,6 +2,7 @@
     "name": "summoner",
     "title": "Summoner",
     "description": "<p>DnD5e compendium for spells like Find Familiar</p>",
+    "systems": ["dnd5e"],
     "author": "Jon Whitehouse - MTGCarver#7753",
     "version": "1.0.14",
     "minimumCoreVersion" : "0.6.0",
