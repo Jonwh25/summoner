@@ -19,7 +19,7 @@
         }
     ],
     "languages" : [],
-    "manifest" : "https://raw.githubusercontent.com/Jonwh25/summoner/master/module.json",
+    "manifest" : "https://github.com/Jonwh25/summoner/releases/download/1.0.9/module.zip",
     "download" : "https://github.com/Jonwh25/summoner/releases/download/1.0.9/summoner.zip",
     "url" : "https://github.com/Jonwh25/summoner"
   }
