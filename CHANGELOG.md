@@ -17,6 +17,10 @@ All notable changes to this project will be documented in this file.
 
 ### Security
 -->
+## [v.1.0.11] 2020-09-11
+### Fixed
+* Finally learned more about github. Got this bad boy setup to auto version and build out releases. Huge thanks to spacemandev and his awesome youtube videos
+
 ## [v.1.0.0] 2020-06-25
 ### Changed
 * Updated to be compatible with Release 0.6.4
