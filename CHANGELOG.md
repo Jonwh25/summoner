@@ -17,6 +17,11 @@ All notable changes to this project will be documented in this file.
 
 ### Security
 -->
+## [v.1.0.15] 2020-09-15
+### Fixed
+* Changed manifest link to point to latest release. 
+* updated readme
+
 ## [v.1.0.11] 2020-09-11
 ### Fixed
 * Finally learned more about github. Got this bad boy setup to auto version and build out releases. Huge thanks to spacemandev and his awesome youtube videos

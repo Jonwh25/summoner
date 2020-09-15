@@ -12,7 +12,8 @@ Right now this only supports the following spells:
 * Find Familiar
 * Unseen Servant
 
-I'll add more as time goes on.
+## Planned Features
+* Working on macros for the spells to actually summon the creatures. 
 
 ## Install
 
@@ -21,13 +22,13 @@ I'll add more as time goes on.
 - Go to Foundry VTT's Configuration and Setup Menu
 - Select the Add-on Modules tab
 - Select the Install Module button
-- Use the link [https://raw.githubusercontent.com/Jonwh25/summoner/master/module.json](https://raw.githubusercontent.com/Jonwh25/summoner/master/module.json) as the Manifest URL
+- Use the link [https://github.com/Jonwh25/summoner/releases/latest/download/module.json](https://github.com/Jonwh25/summoner/releases/latest/download/module.json) as the Manifest URL
 - Select Install
 
 ## How to Use It
 * Go to the compendium tab and you will find the Summoner compendium.
 * Select the creature that the player wants to summon and right click it and select import
-* You can now assign permissions to the player so they can interact with the token.
+* Finally, assign permissions to the player so they can interact with the token.
 
 ## Contributions
 Every contribution is welcome.
