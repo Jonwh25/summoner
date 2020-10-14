@@ -12,8 +12,8 @@ Right now this only supports the following spells:
 * Find Familiar
 * Unseen Servant
 
-## Planned Features
-* Working on macros for the spells to actually summon the creatures. 
+# Updated
+* Added new find familiar macro. You can find it in the macro compendium.
 
 ## Install
 

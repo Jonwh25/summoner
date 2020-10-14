@@ -18,6 +18,13 @@ All notable changes to this project will be documented in this file.
 ### Security
 -->
 ## [v.1.0.15] 2020-09-15
+### Changed 
+* Updated compatibility with core beta 0.74 and dnd5e 0.98 
+
+## Added
+* Added new compendium and macro for find-familiar
+
+## [v.1.0.15] 2020-09-15
 ### Fixed
 * Changed manifest link to point to latest release. 
 * updated readme
