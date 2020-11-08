@@ -1,4 +1,4 @@
-<img alt="Foundry Version" src="https://img.shields.io/badge/FoundryVTT-0.7.64%2B-green"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Jonwh25/summoner?style=flat-square"> <img alt="GitHub Releases" src="https://img.shields.io/github/downloads-pre/Jonwh25/summoner/latest/total?style=flat-square">  
+<img alt="Foundry Version" src="https://img.shields.io/badge/FoundryVTT-0.7.6%2B-green"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Jonwh25/summoner?style=flat-square"> <img alt="GitHub Releases" src="https://img.shields.io/github/downloads-pre/Jonwh25/summoner/latest/total?style=flat-square">  
 
 # Summoner
 This FoundryVTT Module adds a simple compendium pack to help with DnD5e spells that summon creatures.
@@ -36,8 +36,5 @@ Every contribution is welcome.
 ## License
 This work is licensed under the Foundry Virtual Tabletop [Limited License Agreement for Module Development](https://foundryvtt.com/article/license/).
 
-<a rel="license" href="https://spdx.org/licenses/MIT.html"><img alt="MIT License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/thu
-mb/f/f8/License_icon-mit-88x31-2.svg/88px-License_icon-mit-88x31-2.svg.png" /></a> This Module for Foundry VTT by <a xmlns:cc="http://creativecommons.org/ns#" h
-ref="https://github.com/Jonwh25/" property="cc:attributionName" rel="cc:attributionURL">Jon Whitehouse</a> is licensed under an <a rel="license" href="https://s
-pdx.org/licenses/MIT.html"> MIT License</a>.
+<a rel="license" href="https://spdx.org/licenses/MIT.html"><img alt="MIT License" style="border-width:0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/License_icon-mit-88x31-2.svg/88px-License_icon-mit-88x31-2.svg.png" /></a> This Module for Foundry VTT by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Jonwh25/" property="cc:attributionName" rel="cc:attributionURL">Jon Whitehouse</a> is licensed under an <a rel="license" href="https://spdx.org/licenses/MIT.html"> MIT License</a>.
 
