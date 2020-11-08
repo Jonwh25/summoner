@@ -1,20 +1,12 @@
 # Change Log
-
 All notable changes to this project will be documented in this file.
-
 <!--
 ## [Unreleased]
-
 ### Added
-
 ### Changed
-
 ### Deprecated
-
 ### Removed
-
 ### Fixed
-
 ### Security
 -->
 ## [v.1.0.17] 2020-11-7
@@ -44,7 +36,6 @@ All notable changes to this project will be documented in this file.
 ## [v0.1.1] 2020-05-22
 ### Changed
 * Updated module.json to be compatible with Release 0.6.0
-
 
 ## [v0.1.0] 2020-05-21
 ### Added
