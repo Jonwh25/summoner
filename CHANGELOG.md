@@ -17,6 +17,10 @@ All notable changes to this project will be documented in this file.
 
 ### Security
 -->
+## [v.1.0.17] 2020-11-7
+### Changed 
+* Updated compatibility with core 0.76 and DnD5e 0.99
+
 ## [v.1.0.15] 2020-09-15
 ### Changed 
 * Updated compatibility with core beta 0.74 and dnd5e 0.98 
