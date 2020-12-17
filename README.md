@@ -1,4 +1,4 @@
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Jonwh25/MODNAME?style=for-the-badge)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Jonwh25/summoner?style=for-the-badge)
 ![GitHub Releases](https://img.shields.io/github/downloads/Jonwh25/summoner/latest/total?style=for-the-badge)
 ![GitHub All Releases](https://img.shields.io/github/downloads/Jonwh25/summoner/total?style=for-the-badge&label=Downloads+total)
 
