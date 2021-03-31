@@ -1,7 +1,4 @@
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Jonwh25/summoner?style=for-the-badge)
-![GitHub Releases](https://img.shields.io/github/downloads/Jonwh25/summoner/latest/total?style=for-the-badge)
-![GitHub All Releases](https://img.shields.io/github/downloads/Jonwh25/summoner/total?style=for-the-badge&label=Downloads+total)
-
+<img alt="Foundry Version" src="https://img.shields.io/badge/FoundryVTT-0.7.8%2B-green"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Jonwh25/summoner?style=flat-square"> <img alt="GitHub Releases" src="https://img.shields.io/github/downloads-pre/Jonwh25/summoner/latest/total?style=flat-square">  
 
 # Summoner
 This FoundryVTT Module adds a simple compendium pack to help with DnD5e spells that summon creatures.
