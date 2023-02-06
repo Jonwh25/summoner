@@ -1,50 +1,88 @@
 {
-    "id": "summoner",
-    "title": "Summoner",
-    "description": "<p>DnD5e compendium for spells like Find Familiar</p>",
-    "authors": [
-        {
-            "name": "Jon Whitehouse",
-            "discord": "MTGCarver#7753"
-        }
-    ],
-    "version": "1.0.20",
-    "compatibility": {
-        "minimum": "8",
-        "verified": "10",
-        "maximum": "10"
+  "id": "larsenes",
+  "title": "L'Arsène's Ludicrous Larceny",
+  "description": "<p>A DnD5e Adventure by many artists</p>",
+  "authors": [
+    {
+      "name": "Jon Whitehouse",
+      "discord": "MTGCarver#7753"
+    }
+  ],
+  "version": "1.0.10",
+  "compatibility": {
+    "minimum": "8",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "packs": [
+    {
+      "name": "larsene-actors",
+      "label": "Larsene Monsters",
+      "system": "dnd5e",
+      "path": "packs/larsene-actors.db",
+      "type": "Actor"
     },
-    "packs": [
-        {
-            "name": "summoner-actors",
-            "label": "Summoner Monsters",
-            "system": "dnd5e",
-            "path": "packs/summoner.db",
-            "type": "Actor"
-        },
-        {
-            "name": "summoner-macros",
-            "label": "Summoner Macros",
-            "path": "packs/summoner-macros.db",
-            "type": "Macro"
-        }
-    ],
-    "styles": [],
-    "scripts": [],
-    "relationships": {
-        "systems": [
-            {
-                "id": "dnd5e",
-                "type": "system",
-                "manifest": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.0.2/system.json",
-                "compatibility": {
-                    "verified": "2.0.2"
-                }
-            }
-        ]
+    {
+      "name": "larsene-items",
+      "label": "Larsene Items",
+      "system": "dnd5e",
+      "path": "packs/larsene-items.db",
+      "type": "Item"
     },
-    "languages": [],
-    "manifest": "https://github.com/Jonwh25/summoner/releases/latest/download/module.json",
-    "download": "https://github.com/Jonwh25/summoner/releases/latest/download/summoner.zip",
-    "url": "https://github.com/Jonwh25/summoner"
+    {
+      "name": "larsene-spells",
+      "label": "Larsene Spells",
+      "system": "dnd5e",
+      "path": "packs/larsene-spells.db",
+      "type": "Item"
+    },
+    {
+      "name": "larsene-races",
+      "label": "Larsene Races",
+      "system": "dnd5e",
+      "path": "packs/larsene-races.db",
+      "type": "Item"
+    },
+    {
+      "name": "larsene-journal",
+      "label": "Larsene Journals",
+      "path": "packs/larsene-journal.db",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "larsene-playlists",
+      "label": "Larsene Playlists",
+      "path": "packs/larsene-playlists.db",
+      "type": "Playlist"
+    },
+    {
+      "name": "larsene-rolltable",
+      "label": "Larsene Rolltables",
+      "path": "packs/larsene-tables.db",
+      "type": "RollTable"
+    },
+    {
+      "name": "larsene-maps",
+      "label": "Larsene Maps",
+      "path": "packs/larsene-maps.db",
+      "type": "Scene"
+    }
+  ],
+  "styles": [],
+  "scripts": [],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.0.2/system.json",
+        "compatibility": {
+          "verified": "2.0.2"
+        }
+      }
+    ]
+  },
+  "manifest": "https://github.com/Jonwh25/larsenes/releases/latest/download/module.json",
+  "download": "https://github.com/Jonwh25/larsenes/releases/latest/download/larsenes.zip",
+  "url": "https://github.com/Jonwh25/larsenes"
 }

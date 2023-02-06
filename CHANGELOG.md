@@ -9,54 +9,22 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 ### Security
 -->
-## [v.1.0.18] 2020-12-16
-### Changed 
-* Updated compatibility with core 0.78 and DnD5e 1.2.0
+## [v0.1.2] 1-12-2021
+### Added / Changed / Removed
+* Removed all tower maps, journal entries, etc to support Mad Biomancer's Tower instead
+* Updated the journals to ensure they have latest links
+* Added new Manor maps
+* General cleanup in prep for release
 
-## [v.1.0.17] 2020-11-7
-### Changed 
-* Updated compatibility with core 0.76 and DnD5e 0.99
-
-## [v.1.0.15] 2020-09-15
-### Changed 
-* Updated compatibility with core beta 0.74 and dnd5e 0.98 
-
-## Added
-* Added new compendium and macro for find-familiar
-
-## [v.1.0.15] 2020-09-15
-### Fixed
-* Changed manifest link to point to latest release. 
-* updated readme
-
-## [v.1.0.11] 2020-09-11
-### Fixed
-* Finally learned more about github. Got this bad boy setup to auto version and build out releases. Huge thanks to spacemandev and his awesome youtube videos
-
-## [v.1.0.0] 2020-06-25
+## [v0.1.1] 12-16-2020
 ### Changed
-* Updated to be compatible with Release 0.6.4
+* Made updates to core versions to reflect 0.7.8 of Foundry
 
-## [v0.1.1] 2020-05-22
-### Changed
-* Updated module.json to be compatible with Release 0.6.0
+## [v0.1.0] 11-8-2020
+### Fixed
+* Found bug with links. Went through and corrected all of them.
+* Used the DnD5e migration script to migrate all the compendiums to the newest 0.99 release
 
-## [v0.1.0] 2020-05-21
+## [v0.1.0] 11-7-2020
 ### Added
-Initial Release for Summoner.  Created the Summoner Compendium and filled it with creatures for Find Familiar and Unseen Servant
-* Bat
-* Cat
-* Crab
-* Frog
-* Hawk
-* Lizard
-* Octopus
-* Owl
-* Poisonous Snake
-* Fish (Quipper)
-* Rat
-* Raven
-* Sea Horse
-* Spider
-* Weasel
-* Unseen Servant
+Initial Release for L'Arsène's Ludicrous Larceny 
