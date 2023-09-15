@@ -1,7 +1,7 @@
 {
   "id": "summoner",
   "title": "Summoner - Macro",
-  "version": "1.1.0",
+  "version": "11.1.0",
   "compatibility": {
     "minimum": "8",
     "verified": "11"
