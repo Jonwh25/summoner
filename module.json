@@ -1,33 +1,55 @@
 {
-    "name": "summoner",
-    "title": "Summoner",
-    "description": "<p>DnD5e compendium for spells like Find Familiar</p>",
-    "systems": ["dnd5e"],
-    "author": "Jon Whitehouse - MTGCarver#7753",
-    "version": "1.0.18",
-    "minimumCoreVersion" : "0.6.6",
-    "compatibleCoreVersion" : "0.7.9",
-    "scripts" : [],
-    "esmodules" : [],
-    "styles" : [],
-    "packs" : [
-        {
-            "name" : "summoner-actors",
-            "label" : "Summoner Monsters",
-            "path" : "packs/summoner.db",
-            "module" : "Summoner",
-            "entity" : "Actor"
-        },
-        {
-            "name" : "summoner-macros",
-            "label" : "Summoner Macros",
-            "path" : "packs/summoner-macros.db",
-            "module" : "Summoner",
-            "entity" : "Macro"
+  "id": "summoner",
+  "title": "Summoner - Macro",
+  "version": "1.1.0",
+  "compatibility": {
+    "minimum": "8",
+    "verified": "11"
+  },
+  "description": "DnD5e compendium for spells like Find Familiar.",
+  "authors": [
+    {
+      "name": "Jon Whitehouse",
+      "discord": "MTGCarver#7753",
+      "email": "jonwh25@live.com",
+      "url": "https://adventureswithdroop.com/",
+      "flags": {}
+    }
+  ],
+  "languages": [],
+  "esmodules": [],
+  "styles": [],
+  "packs": [
+    {
+      "label": "Summoner Monsters",
+      "name": "monsters",
+      "type": "Actor",
+      "system": "dnd5e",
+      "path": "./packs/summoner.db",
+      "flags": {}
+    },
+    {
+      "label": "Summoner Macros",
+      "name": "macros",
+      "type": "Macro",
+      "system": "dnd5e",
+      "path": "./packs/summoner-macros.db",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.0.2/system.json",
+        "compatibility": {
+          "verified": "2.2.1"
         }
-    ],
-    "languages" : [],
-    "manifest" : "https://github.com/Jonwh25/summoner/releases/latest/download/module.json",
-    "download" : "https://github.com/Jonwh25/summoner/releases/latest/download/summoner.zip",
-    "url" : "https://github.com/Jonwh25/summoner"
-  }
+      }
+    ]
+  },
+  "manifest": "https://github.com/Jonwh25/summoner/releases/latest/download/module.json",
+  "download": "https://github.com/Jonwh25/summoner/releases/latest/download/summoner.zip",
+  "url": "https://github.com/Jonwh25/summoner"
+}
