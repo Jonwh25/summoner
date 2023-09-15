@@ -9,6 +9,9 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 ### Security
 -->
+## [v.1.11.1] 2023-09-15
+### Changed 
+* Updated compatibility to v11.  However, this should not be used as the macro has not been fixed.
 ## [v.1.0.18] 2020-12-16
 ### Changed 
 * Updated compatibility with core 0.78 and DnD5e 1.2.0

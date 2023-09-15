@@ -15,6 +15,9 @@ Right now this only supports the following spells:
 * Find Familiar
 * Unseen Servant
 
+#NOTE
+This module is not being actively developed. I am only using it to try things. I don't suggest running it in your own worlds.
+
 # Updated
 * Added new find familiar macro. You can find it in the macro compendium.
 
